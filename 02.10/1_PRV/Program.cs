@@ -18,7 +18,7 @@ public class Program
 
         }
         // красный \ черный
-        if (a >= 1 && a <= 18)
+        if (a >= 11 && a <= 18)
         {
             if (a % 2 == 0)
                 Console.WriteLine("красный");
