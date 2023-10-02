@@ -1,0 +1,15 @@
+/home/yudin/other/effective-octo-potato/02.10/1_PRV/bin/Debug/net7.0/2_PRV
+/home/yudin/other/effective-octo-potato/02.10/1_PRV/bin/Debug/net7.0/2_PRV.deps.json
+/home/yudin/other/effective-octo-potato/02.10/1_PRV/bin/Debug/net7.0/2_PRV.runtimeconfig.json
+/home/yudin/other/effective-octo-potato/02.10/1_PRV/bin/Debug/net7.0/2_PRV.dll
+/home/yudin/other/effective-octo-potato/02.10/1_PRV/bin/Debug/net7.0/2_PRV.pdb
+/home/yudin/other/effective-octo-potato/02.10/1_PRV/obj/Debug/net7.0/2_PRV.csproj.AssemblyReference.cache
+/home/yudin/other/effective-octo-potato/02.10/1_PRV/obj/Debug/net7.0/2_PRV.GeneratedMSBuildEditorConfig.editorconfig
+/home/yudin/other/effective-octo-potato/02.10/1_PRV/obj/Debug/net7.0/2_PRV.AssemblyInfoInputs.cache
+/home/yudin/other/effective-octo-potato/02.10/1_PRV/obj/Debug/net7.0/2_PRV.AssemblyInfo.cs
+/home/yudin/other/effective-octo-potato/02.10/1_PRV/obj/Debug/net7.0/2_PRV.csproj.CoreCompileInputs.cache
+/home/yudin/other/effective-octo-potato/02.10/1_PRV/obj/Debug/net7.0/2_PRV.dll
+/home/yudin/other/effective-octo-potato/02.10/1_PRV/obj/Debug/net7.0/refint/2_PRV.dll
+/home/yudin/other/effective-octo-potato/02.10/1_PRV/obj/Debug/net7.0/2_PRV.pdb
+/home/yudin/other/effective-octo-potato/02.10/1_PRV/obj/Debug/net7.0/2_PRV.genruntimeconfig.cache
+/home/yudin/other/effective-octo-potato/02.10/1_PRV/obj/Debug/net7.0/ref/2_PRV.dll

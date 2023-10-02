@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/yudin/other/effective-octo-potato/02.10/1_PRV/src.csproj",
-      "projectName": "src",
-      "projectPath": "/home/yudin/other/effective-octo-potato/02.10/1_PRV/src.csproj",
+      "projectUniqueName": "/home/yudin/other/effective-octo-potato/02.10/1_PRV/2_PRV.csproj",
+      "projectName": "2_PRV",
+      "projectPath": "/home/yudin/other/effective-octo-potato/02.10/1_PRV/2_PRV.csproj",
       "packagesPath": "/home/yudin/.nuget/packages/",
       "outputPath": "/home/yudin/other/effective-octo-potato/02.10/1_PRV/obj/",
       "projectStyle": "PackageReference",

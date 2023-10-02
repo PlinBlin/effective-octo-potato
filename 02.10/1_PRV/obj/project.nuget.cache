@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v6mC4SyhQlpYXiuGN81n1OpCJeJgx9Ozg1biVMohuuFQ9vtXjXX84BPicnafbFRXKkE0Cawr+GgIaRfeJCrlLw==",
+  "dgSpecHash": "RR3PxONywT0AgBZw/TAOskZ6hCRv0zPVB3c23WVsTiUNKn6DKHa9ZNiYeQJ3tpYURI8p/sp/8wtsAzXiiUM9AA==",
   "success": true,
-  "projectFilePath": "/home/yudin/other/effective-octo-potato/02.10/1_PRV/src.csproj",
+  "projectFilePath": "/home/yudin/other/effective-octo-potato/02.10/1_PRV/2_PRV.csproj",
   "expectedPackageFiles": [
     "/home/yudin/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
   ],
